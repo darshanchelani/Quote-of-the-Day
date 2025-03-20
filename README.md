@@ -24,4 +24,4 @@ A simple website that fetches and displays a random quote from the FreeAPI Quote
 
 ## Deployment
 
-- Hosted on [Netlify/Vercel]: [https://your-deployed-link.com](#)
+- Hosted on [Netlify/Vercel]: [https://quoteoftheday0.netlify.app/](#)
